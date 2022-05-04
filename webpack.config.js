@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   mode: 'development',
-  entry: './src/section14/aula-webpack/index.ts',
+  entry: './src/section14/tarefa/validarforms.ts',
   module: {
     rules: [
       {
